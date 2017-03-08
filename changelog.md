@@ -41,3 +41,7 @@
 
 ### *v1.1* (Mar 07, 2017)
 - Added complete_work_options to Work section (Jake)
+
+### *v1.2* (Mar 07, 2017)
+- Added role specific maintenance list (Jake)
+
