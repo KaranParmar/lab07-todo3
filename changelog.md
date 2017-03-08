@@ -45,3 +45,9 @@
 ### *v1.2* (Mar 07, 2017)
 - Added role specific maintenance list (Jake)
 
+### *v1.3* (Mar 07, 2017)
+- Completed Job 9 - Integrate the Caboose package (Karan)
+
+### *v1.4* (Mar 08, 2017)
+- Completed Job 12 - Add item maintenance (Karan)
+
