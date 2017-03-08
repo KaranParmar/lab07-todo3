@@ -38,3 +38,6 @@
 
 ### *v1.0* (Mar 07, 2017)
 - Added ci_session to database (Jake)
+
+### *v1.1* (Mar 07, 2017)
+- Added complete_work_options to Work section (Jake)
